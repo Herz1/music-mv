@@ -9,8 +9,13 @@ skill ワークフローに沿っています（分析→概念→角色→分�
 ## 成片（tiny-luck-mv/render/）
 | ファイル | 仕様 |
 |---|---|
-| `TINY_LUCK_MV_16x9.mp4` | 1280×720 / 24fps / 3:44.04（曲 3:41.04＋残像クレジット3s）/ H.264 CRF24 / AAC 256k |
-| `TINY_LUCK_MV_9x16.mp4` | 720×1280 / 24fps / 同尺 / ネイティブ竖版再レイアウト |
+| `TINY_LUCK_MV_16x9_v2.mp4` | 1280×720 / 24fps / 3:44.04（曲 3:41.04＋残像クレジット3s）/ H.264 CRF24 / AAC 256k |
+| `TINY_LUCK_MV_9x16_v2.mp4` | 720×1280 / 24fps / 同尺 / ネイティブ竖版再レイアウト |
+
+## 直播（v2、Range対応でシーク可）
+- 观看页：`https://8000-iar05yj4v9me41gxxh7ad.e2b.app/`（本沙箱存活中のみ）
+- 16:9：`https://8000-iar05yj4v9me41gxxh7ad.e2b.app/TINY_LUCK_MV_16x9_v2.mp4`
+- 9:16：`https://8000-iar05yj4v9me41gxxh7ad.e2b.app/TINY_LUCK_MV_9x16_v2.mp4`
 
 ## 素材（ユーザー提供）
 - 音源：`music - Converted with FlexClip.mp3`（本リポジトリ main にアップロードされたもの）

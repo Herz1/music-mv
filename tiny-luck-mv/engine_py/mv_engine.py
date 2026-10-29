@@ -176,7 +176,7 @@ class Engine:
         fx=shot.get("fx",[])
         lyric=self.lyrics[shot["lyric"]] if shot["lyric"] is not None else None
         # behind text (text passes behind the singer)
-        if lyric and shot["text"]=="behind" and kind=="illust":
+        if lyric and shot["text"] in ("behind","behind_bottom") and kind=="illust":
             frame=Image.alpha_composite(frame.convert("RGBA"), self.behind_text(lyric,t,shot)).convert("RGB")
         d=ImageDraw.Draw(frame,"RGBA")
         # glow behind char

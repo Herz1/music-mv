@@ -24,8 +24,8 @@
 | pose_hurt.png | 胸を抱く（傷・俯く影） | ✅ |
 | pose_reach.png | 星に手を伸ばす（空に光る） | ✅ |
 | pose_smile.png | 微笑＋星（救済・結末） | ✅ |
-| pose_sit.png | 膝を抱く座り | ⏳ 次回生成（本版は pose_hurt で代替） |
-| pose_group.png | 四人ダンス群像 | ⏳ 次回生成（本版はシルエット層で代替） |
+| pose_sit.png | 膝を抱く座り（s03） | ✅ v2 |
+| pose_group.png | 群像ダンス（s11/s29/s32/s35） | ✅ v2 |
 
 ## Style block（全生成で共通使用）
 Original anime illustration, Vocaloid-style MV, clean lineart, cel shading with soft painterly gradients,
